@@ -1,4 +1,4 @@
-import { createElement, diff, patch } from './src/index.js'
+import { createElement, diff, patch } from '../dist/bundle.js'
 
 const tree = createElement("div", { id: "root" }, [
   createElement("h1", { style: "color: blue" }, ["Tittle1"]),
