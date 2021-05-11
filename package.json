@@ -1,5 +1,5 @@
 {
-  "name": "virtualdom",
+  "name": "create-vnode",
   "version": "0.0.1",
   "description": "一个简易的虚拟dom生成器和渲染器，包含diff算法",
   "main": "./src/index.js",
