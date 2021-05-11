@@ -1,0 +1,22 @@
+{
+  "name": "virtualdom",
+  "version": "0.0.1",
+  "description": "一个简易的虚拟dom生成器和渲染器，包含diff算法",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HJianfeng/virtualdom.git"
+  },
+  "keywords": [
+    "VNode"
+  ],
+  "author": "hjf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HJianfeng/virtualdom/issues"
+  },
+  "homepage": "https://github.com/HJianfeng/virtualdom#readme"
+}
